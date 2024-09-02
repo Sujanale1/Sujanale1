@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Html CSS JavaScript and React
 - 💞️ I’m looking to collaborate on skill developement project,problem solving 
 - 📫 How to reach me : alesujan123@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Sujanale1/Sujanale1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
